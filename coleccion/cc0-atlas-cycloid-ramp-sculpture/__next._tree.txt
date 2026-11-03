@@ -1,6 +1,6 @@
 :HL["/_next/static/media/bca7023bf625e650-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/a0b5f19f988428db.css","style"]
+:HL["/_next/static/css/0385cc841f5f73b2.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"cc0-atlas-cycloid-ramp-sculpture","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"coleccion","h":96,"c":"$Q2"}]]
-0:{"b":"aSl_UHZOkSk0yre3hR0-D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"GD18eYoX2t6LKd5HrzONT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
