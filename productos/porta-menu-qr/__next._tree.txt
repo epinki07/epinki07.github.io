@@ -1,6 +1,6 @@
 :HL["/_next/static/media/bca7023bf625e650-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/0385cc841f5f73b2.css","style"]
+:HL["/_next/static/css/a7435a1f40a22f6e.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"porta-menu-qr","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"productos","h":96,"c":"$Q2"}]]
-0:{"b":"PtwKA6XKykufqapKWg564","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Vpz394B6mzYNmyvTRHw4L","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
