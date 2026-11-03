@@ -1,6 +1,6 @@
 :HL["/_next/static/media/bca7023bf625e650-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/a7435a1f40a22f6e.css","style"]
+:HL["/_next/static/css/8aa8df7ece45d392.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"cc0-terrain-yardangs","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"coleccion","h":96,"c":"$Q2"}]]
-0:{"b":"P3Ug_cjMi8HcEi0aLE5Kk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"audmgH1I6Dw135HQFtHdB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
