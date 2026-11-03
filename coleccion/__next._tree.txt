@@ -4,4 +4,4 @@
 :HL["/coleccion/temporada-614179/color.webp","image",{"imageSizes":"(min-width: 1024px) 25vw, 50vw"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"coleccion","h":96,"c":"$Q2"}]]
-0:{"b":"9dZIQifulzXtj9It_v1Qg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"P3Ug_cjMi8HcEi0aLE5Kk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
