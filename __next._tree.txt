@@ -1,0 +1,7 @@
+:HL["/_next/static/media/bca7023bf625e650-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/a0b5f19f988428db.css","style"]
+:HL["/productos/caja-hexagonal/hero.webp","image",{"imageSizes":"33vw","fetchPriority":"auto"}]
+:HL["/productos/maceta-hexagonal/hero.webp","image",{"imageSizes":"33vw","fetchPriority":"high"}]
+:HL["/productos/lapicero-torcido/hero.webp","image",{"imageSizes":"33vw","fetchPriority":"auto"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"aSl_UHZOkSk0yre3hR0-D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
